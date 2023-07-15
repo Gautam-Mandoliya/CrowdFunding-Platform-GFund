@@ -24,7 +24,12 @@ It allows users to create and contribute to crowdfunding campaigns using cryptoc
   5. Back in first terminal and deploy smart contract: `npx hardhat run --network localhost scripts/deploy.js`
       
    You will get a `address` when above command execute successfully.
+   
   6. Copy that `address` and paste it in `contants.js` and in `CrowdFunding.js` (you have to scroll a bit to find in crowdfunding.js file)
-  7.
+  7. Go to directory `artifacts >> contracts >> Gfund.json`, Move Gfund.json file in `Context` directory.
+     
+     (Make sure you move the file, do not copy it.)
+
+   
      
 
