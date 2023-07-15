@@ -31,6 +31,8 @@ It allows users to create and contribute to crowdfunding campaigns using cryptoc
      (Make sure you move the file, do not copy it.)
 
   8. Run local development: ` npm run dev `
+   
+ #### Now you can interact with project on web browser.
 
    
      
