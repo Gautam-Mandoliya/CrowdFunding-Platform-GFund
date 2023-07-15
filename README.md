@@ -17,6 +17,14 @@ It allows users to create and contribute to crowdfunding campaigns using cryptoc
 
 # Getting Started
    ## Installation
-  1. Clone the repository: `git clone 
-   
+  1. Clone the repository: `git clone https://github.com/Gautam-Mandoliya/CrowdFunding-Platform-GFund.git`
+  2. Navigate to the project directory: `cd <directory Name>`
+  3. Install dependencies: `npm install`
+  4. Open a second terminal and activate hardhat node:` npx hardhat node `
+  5. Back in first terminal and deploy smart contract: `npx hardhat run --network localhost scripts/deploy.js`
+      
+   You will get a `address` when above command execute successfully.
+  6. Copy that `address` and paste it in `contants.js` and in `CrowdFunding.js` (you have to scroll a bit to find in crowdfunding.js file)
+  7.
+     
 
