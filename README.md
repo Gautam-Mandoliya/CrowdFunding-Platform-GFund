@@ -32,7 +32,7 @@ It allows users to create and contribute to crowdfunding campaigns using cryptoc
 
   8. Run local development: ` npm run dev `
    
- #### Now you can interact with project on web browser.
+ #### Now you can interact with project on web browser on local host `http://localhost:3000/`
 
    
      
