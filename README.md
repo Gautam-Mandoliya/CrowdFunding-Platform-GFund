@@ -31,6 +31,8 @@ It allows users to create and contribute to crowdfunding campaigns using cryptoc
      (Make sure you move the file, do not copy it.)
 
   8. Run local development: ` npm run dev `
+
+### Or you can watch a video of walkthrough on this project by clicking on the link: https://www.veed.io/view/8f80f869-06e4-4ad4-a60f-754f7983665a?panel=share
    
  #### Now you can interact with project on web browser on local host `http://localhost:3000/`
 
