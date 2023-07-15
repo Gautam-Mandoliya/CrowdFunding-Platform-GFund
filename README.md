@@ -34,6 +34,13 @@ It allows users to create and contribute to crowdfunding campaigns using cryptoc
    
  #### Now you can interact with project on web browser on local host `http://localhost:3000/`
 
+ ## Author
+ Gautam Mandoliya
+
+ ## Licence
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
    
      
 
